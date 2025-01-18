@@ -20,12 +20,12 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 1. **Projeyi klonlayın:**
    ```bash
-   git clone https://github.com/TPashaxrd/react-portfolio.git
+   git clone https://github.com/TPashaxrd/singer-portfolio.git
    ```
 
 2. **Proje dizinine gidin:**
    ```bash
-   cd react-portfolio
+   cd singer-portfolio
    ```
 
 3. **Gerekli bağımlılıkları yükleyin:**
@@ -50,5 +50,5 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasını inceleyebilirsiniz.
 
 ---
-
-Herhangi bir sorunuz veya öneriniz varsa, lütfen bir [issue](https://github.com/TPashaxrd/react-portfolio/issues) oluşturun ya da benimle iletişime geçin. 😊
+([Mail](mailto:altintoprak06@gmail.com))
+Herhangi bir sorunuz veya öneriniz varsa, lütfen bir [issue](https://github.com/TPashaxrd/singer-portfolio) oluşturun ya da benimle iletişime geçin. 😊
