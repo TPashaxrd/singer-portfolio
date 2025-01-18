@@ -43,7 +43,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 ## Katkıda Bulunanlar
 
 - **Toprak ([@TPashaxrd](https://github.com/TPashaxrd))**  
-- Yardımcı olan: **Batın**
+- **Yardımcı olan: ([@Batin-dev](https://github.com/Batin-dev))**
 
 ## Lisans
 
