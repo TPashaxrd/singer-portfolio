@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+}
+
+::-webkit-scrollbar {
+    background-color: black;
+}
+::-webkit-scrollbar-thumb {
+    background-color: black;
+}
+.social-icon a:hover {
+    color: red;
+    transform: translate(2.2px);
+}
+.fade-in {
+    opacity: 0;
+    transform: translateY(30px); 
+    animation: fadeIn 1.5s ease-out forwards; 
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    60% {
+      opacity: 0.6;
+      transform: translateY(10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+  }
+  
+  .fade-in-delay {
+    animation-delay: 0.2s; 
+  }
+
+  @media ()
